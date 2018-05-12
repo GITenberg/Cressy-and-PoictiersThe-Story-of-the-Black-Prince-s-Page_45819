@@ -1,0 +1,32 @@
+_repo: Cressy-and-PoictiersThe-Story-of-the-Black-Prince-s-Page_45819
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45819-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Edgar, John G. (John George)
+    aliases:
+    - Edgar, J. G. (John George)
+    - Edgar, John George
+    - Edgar, J.G.
+    birthdate: 1834
+    deathdate: 1864
+    gutenberg_agent_id: '32162'
+    url: http://www.gutenberg.org/2009/agents/32162
+description: ''
+gutenberg_issued: '2014-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45819'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Crécy, Battle of, Crécy-en-Ponthieu, France, 1346 -- Fiction'
+- !lcsh 'Poitiers, Battle of, France, 1356 -- Fiction'
+- !lcsh 'Edward, Prince of Wales, 1330-1376 -- Fiction'
+- !lcc 'PR'
+title: 'Cressy and Poictiers: The Story of the Black Prince''s Page'
+url: http://www.gutenberg.org/ebooks/45819
