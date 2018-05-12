@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '32162'
     url: http://www.gutenberg.org/2009/agents/32162
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45819#Cressy-and-PoictiersThe-Story-of-the-Black-Prince-s-Page
 gutenberg_issued: '2014-05-29'
 gutenberg_type: Text
 identifiers:
